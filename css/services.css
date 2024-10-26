@@ -1,0 +1,59 @@
+#heading1{
+    text-align: center;
+    color: #0040ff;
+}
+#paragraph1{
+    font-family: "Baskerville Old Face";
+    font-size: 20px;
+}
+.one{
+    font-style: italic;
+    font-weight: bolder;
+}
+#mydivision{
+    background-color: #ade6dc;
+    margin: 50px;
+    color: black;
+    font-weight: bolder;
+    padding: 50px;
+}
+#test{
+    background-color: aqua;
+    margin: 30px;
+    padding: 30px;
+    display: flow;
+    color: darkgrey;
+}
+#test p{
+    margin-left: 30px;
+}
+#test img{
+    border-radius: 400px;
+    width: 200px;
+    height: 200px;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: aqua;
+    padding: 20px;
+    box-shadow: 8px 4px 8px gray;
+}
+#accounting{
+    background-color: grey;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px gray;
+    color: lightblue;
+}
+#payment{
+    background-color: chocolate;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 8px 4px 8px gray;
+    color: aliceblue;
+}
+#advertisement:hover,#accounting:hover,#payment:hover{
+    background-color: grey;
+}
